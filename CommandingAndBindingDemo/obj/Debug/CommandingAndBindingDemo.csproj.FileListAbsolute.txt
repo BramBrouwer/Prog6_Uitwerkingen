@@ -1,0 +1,60 @@
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\bin\Debug\CommandingAndBindingDemo.exe.config
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\bin\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\bin\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\App.g.cs
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\CommandingAndBindingDemo_MarkupCompile.cache
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\CommandingAndBindingDemo_MarkupCompile.lref
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\MainWindow.baml
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\CommandingAndBindingDemo.g.resources
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\CommandingAndBindingDemo.Properties.Resources.resources
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\CommandingAndBindingDemo.csproj.GenerateResource.Cache
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\MyWPF\MyWPF\obj\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\bin\Debug\CommandingAndBindingDemo.exe.config
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\bin\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\bin\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\CommandingAndBindingDemo.csprojResolveAssemblyReference.cache
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\App.g.cs
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\CommandingAndBindingDemo_MarkupCompile.cache
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\CommandingAndBindingDemo_MarkupCompile.lref
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\MainWindow.baml
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\CommandingAndBindingDemo.g.resources
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\CommandingAndBindingDemo.Properties.Resources.resources
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\CommandingAndBindingDemo.csproj.GenerateResource.Cache
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\MyWPF\obj\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe.config
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\Visual Studio 2013\Projects\2. Pocs\CommandingAndBindingDemo\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe.config
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\App.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.lref
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\MainWindow.baml
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.g.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.Properties.Resources.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week1_WorkshopB\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.csproj.GenerateResource.Cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe.config
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\App.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo_MarkupCompile.lref
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\bin\Debug\CommandingAndBindingDemo.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\MainWindow.baml
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.g.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.Properties.Resources.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CommandingAndBindingDemo\obj\Debug\CommandingAndBindingDemo.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe.config
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\App.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\CurrencyCalculator_MarkupCompile.cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\CurrencyCalculator_MarkupCompile.lref
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\bin\Debug\CurrencyCalculator.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\bin\Debug\CurrencyCalculator.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\MainWindow.baml
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\CurrencyCalculator.g.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\CurrencyCalculator.Properties.Resources.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\CurrencyCalculator.csproj.GenerateResource.Cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\CurrencyCalculator.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\CurrencyCalculator\obj\Debug\CurrencyCalculator.pdb

@@ -1,0 +1,60 @@
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.exe.config
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csprojResolveAssemblyReference.cache
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MainWindow.baml
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MainWindow.g.cs
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\App.g.cs
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM_MarkupCompile.cache
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.g.resources
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.Properties.Resources.resources
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csproj.GenerateResource.Cache
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.exe
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.pdb
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.exe
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.pdb
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM_MarkupCompile.lref
+D:\Classes\Development\PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.exe.config
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.exe
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.pdb
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.exe
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.pdb
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csprojResolveAssemblyReference.cache
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\App.g.cs
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM_MarkupCompile.cache
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM_MarkupCompile.lref
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MainWindow.baml
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.g.resources
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.Properties.Resources.resources
+C:\Users\Linksonder\Google Drive\BICT_edit\_Modules\Periode2\06_PROGCS06\Week 2\Uitwerkingen\2.1\MusicCollectionMVVM\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csproj.GenerateResource.Cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.exe.config
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csprojResolveAssemblyReference.cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\App.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM_MarkupCompile.cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM_MarkupCompile.lref
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MainWindow.baml
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.g.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.Properties.Resources.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csproj.GenerateResource.Cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Week2_WorkshopA\MusicCollectionMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.exe.config
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\bin\Debug\MusicCollectionMVVM.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\App.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM_MarkupCompile.cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM_MarkupCompile.lref
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MainWindow.baml
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.g.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.Properties.Resources.resources
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csproj.GenerateResource.Cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csprojResolveAssemblyReference.cache

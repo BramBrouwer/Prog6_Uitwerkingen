@@ -28,6 +28,9 @@ namespace MusicCollectionMVVM
             this.action();
         }
 
+        /// <summary>
+        /// Een luie manier van oplossen
+        /// </summary>
         public event EventHandler CanExecuteChanged
         {
             add { CommandManager.RequerySuggested += value; }

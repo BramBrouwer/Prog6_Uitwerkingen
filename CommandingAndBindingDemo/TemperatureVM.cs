@@ -26,6 +26,7 @@ namespace CommandingAndBindingDemo
         }
 
         public ICommand SetLowCommand { get; set; }
+        public ICommand SetHighCommand { get; set; }
 
         /// <summary>
         /// Constructor!
@@ -34,6 +35,7 @@ namespace CommandingAndBindingDemo
         {
             this._temperature = 22;
             SetLowCommand = new SetLowCommand(this);
+            SetHighCommand = new SetHighCommand(this);
         }
 
 

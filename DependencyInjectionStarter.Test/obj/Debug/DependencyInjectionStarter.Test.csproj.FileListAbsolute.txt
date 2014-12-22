@@ -1,0 +1,4 @@
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\DependencyInjectionStarter.Test\bin\Debug\DependencyInjectionStarter.Test.dll
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\DependencyInjectionStarter.Test\bin\Debug\DependencyInjectionStarter.Test.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\DependencyInjectionStarter.Test\obj\Debug\DependencyInjectionStarter.Test.dll
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\DependencyInjectionStarter.Test\obj\Debug\DependencyInjectionStarter.Test.pdb

@@ -57,3 +57,4 @@ C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\
 C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.g.resources
 C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.Properties.Resources.resources
 C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csproj.GenerateResource.Cache
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVM\obj\Debug\MusicCollectionMVVM.csprojResolveAssemblyReference.cache

@@ -28,7 +28,6 @@ namespace MusicCollectionMVVMLight.ViewModel
             {
                 _selectedSong = value;
                 RaisePropertyChanged();
-                _index = Songs.IndexOf(_selectedSong);
             }
         }
 

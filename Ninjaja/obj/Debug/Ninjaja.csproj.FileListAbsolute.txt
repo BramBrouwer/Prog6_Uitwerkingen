@@ -1,0 +1,8 @@
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\Ninjaja\bin\Debug\Ninjaja.exe.config
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\Ninjaja\bin\Debug\Ninjaja.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\Ninjaja\bin\Debug\Ninjaja.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\Ninjaja\obj\Debug\Ninjaja.exe
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\Ninjaja\obj\Debug\Ninjaja.pdb
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\Ninjaja\bin\Debug\Ninject.dll
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\Ninjaja\bin\Debug\Ninject.xml
+C:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\Ninjaja\obj\Debug\Ninjaja.csprojResolveAssemblyReference.cache

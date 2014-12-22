@@ -12,8 +12,8 @@
          <Members>
           <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
            <Messages>
-            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2014-12-08 14:24:48Z" FixCategory="NonBreaking">
-             <Issue Certainty="95" Level="CriticalWarning" Path="c:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVMLight\ViewModel" File="SongListViewModel.cs" Line="43">'SongListViewModel.SongListViewModel()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;SongListViewModel..ctor()&#xD;&#xA;SongListViewModel.set_SelectedSong(SongViewModel):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
+            <Message TypeName="DoNotCallOverridableMethodsInConstructors" Category="Microsoft.Usage" CheckId="CA2214" Status="Active" Created="2014-12-16 12:45:56Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalWarning" Path="c:\Users\Linksonder\Documents\GitHub\Prog6_Uitwerkingen\MusicCollectionMVVMLight\ViewModel" File="SongListViewModel.cs" Line="42">'SongListViewModel.SongListViewModel()' contains a call chain that results in a call to a virtual method defined by the class. Review the following call stack for unintended consequences: &#xD;&#xA;&#xD;&#xA;SongListViewModel..ctor()&#xD;&#xA;SongListViewModel.set_SelectedSong(SongViewModel):Void&#xD;&#xA;ObservableObject.RaisePropertyChanged(String):Void</Issue>
             </Message>
            </Messages>
           </Member>

@@ -5,9 +5,14 @@
         Title="Music Collection" 
         Height="500" 
         Width="500">
+    
+    
     <Window.DataContext>
         <local:SongListviewModel />
     </Window.DataContext>
+
+
+
     <StackPanel>
         <TextBlock Text="Music Collection" FontSize="28" />
 

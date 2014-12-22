@@ -93,7 +93,7 @@ namespace MusicCollectionMVVM
 
 
         public event PropertyChangedEventHandler PropertyChanged;
-
+         
         protected void OnPropertyChanged([CallerMemberName] string propertyName = "")
         {
             if (PropertyChanged != null)

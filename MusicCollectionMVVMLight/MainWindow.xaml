@@ -9,8 +9,12 @@
         Width="500"
         Title="MVVM Light Application"
         Closing="Window_Closing"
+        
+        
         DataContext="{Binding Song, Source={StaticResource Locator}}">
 
+    
+    
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
